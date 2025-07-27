@@ -83,3 +83,8 @@ function salomeEtDov(number){
 }
 setInterval(salomeEtDov)
 */
+/*
+let p1={price : 4000, title:"mac"}
+console.log(p1)
+let keys = Object.keys(p1)
+console.log(keys);*/
